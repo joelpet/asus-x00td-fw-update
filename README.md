@@ -10,3 +10,9 @@ the [ZenFone Max Pro
 2. Run `make out/fw_update.zip`.
 3. Use `adb sideload out/fw_update.zip` in conjunction with a custom recovery to
    install the package.
+
+## License
+
+GNU General Public License v3.0 or later.
+
+See COPYING to see the full text.
